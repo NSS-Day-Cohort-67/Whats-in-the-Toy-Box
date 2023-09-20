@@ -1,0 +1,17 @@
+body {
+    background-color: goldenrod;
+}
+
+
+
+.toys {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.toy {
+    border: dotted blue 2px;
+    padding: 30px;  
+    margin: 5px;
+}
